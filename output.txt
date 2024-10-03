@@ -1,0 +1,28 @@
+                    67     34
+First matrix = 
+                     3     98
+
+                     12     43
+Second matrix = 
+                     64      3
+
+           79     77
+Sum = 
+           67    101
+
+                  55     -9
+Difference = 
+                 -61     95
+
+                        4.94066e-324      0
+Scalar Multiplication = 
+                        4.94066e-3246.95335e-310
+
+                06.95314e-310
+Product = 
+                06.95314e-310
+
+                06.95335e-310
+Inverse = 
+          6.95335e-3104.17199e-309
+

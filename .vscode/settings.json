@@ -23,6 +23,7 @@
         "*.REXXINC*": "rexx",
         "*.rex": "rexx",
         "*.rexx": "rexx",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "iomanip": "cpp"
     }
 }
